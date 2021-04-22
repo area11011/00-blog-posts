@@ -11,3 +11,5 @@ Some articles for new developers (romanian)
 * Fii la curent. Urmărește cele mai apreciate proiecte lansate recent.
 #### 5. [Dacă vrei să fii programator (5)](https://ghitab.net/2021/04/19/daca-vrei-sa-fii-programator-5/)
 * Poți să vezi codul sursă pentru o pagină HTML...
+#### 6. [Dacă vrei să fii programator (6)](https://ghitab.net/2021/04/21/daca-vrei-sa-fii-programator-6/)
+* Învață HTML
